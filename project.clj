@@ -5,4 +5,5 @@
                     [org.clojure/clojurescript "1.10.339"]
                     [com.bhauman/figwheel-main "0.2.3"]
                     [com.bhauman/rebel-readline-cljs "0.1.4"]]}}
+  :resource-paths ["resources" "target"]  
   :aliases {"fig" ["trampoline" "run" "-m" "figwheel.main"]})
